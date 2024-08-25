@@ -1,3 +1,3 @@
 # StaticFluids-IndexDev
 
-Mantiene el agua/lava estaticos, evitando grifeos. By IndexDev
+It makes both water/lava stay static. 
