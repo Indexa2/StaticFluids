@@ -1,0 +1,6 @@
+name: StaticFluids
+main: IndexDev\StaticFluids\Main
+version: 1.0.0
+api: 5.0.0
+author: IndexDev
+description: Mantiene el agua/lava estaticos
